@@ -6,6 +6,10 @@ main = "dist-prebuild/workerd.mjs"
 [build]
 command = "pnpm run prebuild:worker"
 
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
+
 # [vars]
 # MY_VAR = "my-variable"
 
