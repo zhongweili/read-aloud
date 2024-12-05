@@ -23,7 +23,7 @@
     "@types/node": "20.8.3",
     "@types/xast": "^2.0.4",
     "tsup": "^8.3.5",
-    "wrangler": "^3.57.2"
+    "wrangler": "^3.88.0"
   },
   "overrides": {
     "@types/node": "20.8.3"
